@@ -1,13 +1,14 @@
+# Análise de tempo de processamento entre métodos de ordenação
+
 :point_right:Implementação e adequação do algoritmo InsertionSort no código de ordenação com o algoritmo BubbleSort
 desenvolvido em aula, gerar uma tabela com os tempos gastos na ordenação de cada algoritmo e por fim analisar o 
 comportamento.
 
-:bookmark_tabs:Tabela de Testes
+:bookmark_tabs: **Tabela de Testes**
 
 ![Imagem1](https://user-images.githubusercontent.com/91790222/216859236-0d882d93-1667-4517-aedc-86cf47217766.png)
 
-:bookmark_tabs:Parágrafo de análise:
-Foi realizado um cálculo de média dos três testes de cada tamanho de vetor, e a partir desse resultado foi gerado o gráfico a seguir:
+:bookmark_tabs:Foi realizado um cálculo de média dos três testes de cada tamanho de vetor, e a partir desse resultado foi gerado o gráfico a seguir:
 
 ![image](https://user-images.githubusercontent.com/91790222/216859281-8d84d3b7-a83b-4a50-9d10-644d7819722b.png)
 
